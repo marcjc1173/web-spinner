@@ -1,5 +1,5 @@
 # web-spinner
-Simple website for web-spinners for picking winners for a contest or anything else you need.
+Simple website for web-spinners, perfect for picking winners for a contest or anything else you need.
 
 <h1>Implementation</h1>
 
