@@ -11,7 +11,7 @@ Save index.html to the site you wish to host your spinner. This html file can al
   <li> Set spin duration</li>
   <li> Change logo for header and matching in the wheel center - Image is resized automatically to fit</li>
   <li> Enable spin ticking sound</li>
-  <li> Save your configuration in case you are entering many options so you can contiue later</li>
+  <li> Save your configuration in case you are entering many items, so you can contiue later</li>
 </ul>
 
 
