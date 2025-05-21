@@ -1,6 +1,9 @@
 # web-spinner
 Simple website for creating web-spinners for picking winners for a contest or anything else you need.
 
+<h1>Implementation</h1>
+
+Save index.html to the site you wish to host your spinner. This html file can also be renamed to your fit your needs.
 <h1>Features</h1>
 
 <ul>
