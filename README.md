@@ -3,10 +3,14 @@ Simple website for creating web-spinners for picking winners for a contest or an
 
 <h1>Features</h1>
 
+<ul>
+  <ui> Rename your spinner to match your contest.</ui>
+</ul>
 Rename your spinner to match your contest.
-
-
-
+Set spin duration
+Change logo for header and matching in the wheel center - Image is resized automatically to fit
+Enable spin ticking sound
+Save your configuration in case you are entering many options so you can contiue later
 
 
 <h1>Screenshot</h1>
