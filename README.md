@@ -1,5 +1,5 @@
 # web-spinner
-Simple website for web-spinners, perfect for picking winners for a contest or anything else you need.
+Simple website for web-spinners, perfect for picking winners for a contest or anything else you need. (Completely written by a combination of ai from claude.ai and gemini)
 
 <h1>Implementation</h1>
 
